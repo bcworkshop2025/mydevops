@@ -1,1 +1,2 @@
 Sample Deveops text file
+Developer1 made changes through nano
