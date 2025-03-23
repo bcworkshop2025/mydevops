@@ -1,1 +1,2 @@
 File 2 for next modifications
+Changes done by nano command
